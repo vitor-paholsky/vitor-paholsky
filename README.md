@@ -2,7 +2,7 @@
 ==========================================================================================================================================
 
 
-My name is Vitor Paholsky. I work as a Software developer at Ibratan.
+My name is Vitor Paholsky. I i'm a software developer :)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vitor-paholsky&repo=vitor-paholsky&countColorcountColor)
 
