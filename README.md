@@ -2,7 +2,7 @@
 ==========================================================================================================================================
 
 
-My name is Vitor Paholsky. I i'm a software developer :)
+My name is Vitor Paholsky. I i'm a Software Engineer :)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vitor-paholsky&repo=vitor-paholsky&countColorcountColor)
 
@@ -19,8 +19,7 @@ My name is Vitor Paholsky. I i'm a software developer :)
 
 ### Check what im working there 👋
 
-- 🔭 I’m currently working on a project with Golang
-- 🌱 I’m currently learning Golang and Java
+- 🌱 I’m currently working with C#
 - 👯 I’m looking to collaborate on software projects =)
 - ⚡ Fun fact: I am an eternal apprentice
 -->
