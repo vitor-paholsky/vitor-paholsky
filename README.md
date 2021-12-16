@@ -2,7 +2,7 @@
 ==========================================================================================================================================
 
 
-My name is Vitor Paholsky. I i'm a Software Engineer :)
+My name is Vitor Paholsky. I i'm a Software Developer focused in C# and Microsoft Development Enviroment :)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vitor-paholsky&repo=vitor-paholsky&countColorcountColor)
 
